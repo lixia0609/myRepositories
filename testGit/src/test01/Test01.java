@@ -4,5 +4,6 @@ public class Test01 {
 	public void test01(){
 		String a="1213";
 		int w=1;
+		int i=0;
 	}
 }
